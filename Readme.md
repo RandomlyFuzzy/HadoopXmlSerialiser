@@ -8,16 +8,24 @@
 
 
 ### General Usage
+
+
 #### For windows
+
+
 `xmlSerialiser.exe [PATH to config file] '<key>' '<value>' '<key>' '<value>' ...`
+
+
 #### For Linux
+
+
 `xmlSerialiser [PATH to config file] '<key>' '<value>' '<key>' '<value>' ...`
-
-
-
 
 
 *make sure to escape all shell variables*
 
 
-Created By Liam Woolley For use in CMP400 and CMP406
+
+
+
+**Created By Liam Woolley For use in CMP400 and CMP406**
