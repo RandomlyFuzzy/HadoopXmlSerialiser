@@ -8,7 +8,11 @@
 
 
 ### general usage
-`xmlSerialiser.exe [PATH to config file] '<key>' '<value>'`
+`xmlSerialiser.exe [PATH to config file] '<key>' '<value>' '<key>' '<value>' ...`
+
+
+
+
 
 *make sure to escape all shell variables*
 
